@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.kodzilar.testcontainerdemo"
+    },
+    "jhipsterVersion": "6.4.0",
+    "applicationType": "monolith",
+    "baseName": "testcontainerdemo",
+    "packageName": "com.kodzilar.testcontainerdemo",
+    "packageFolder": "com/kodzilar/testcontainerdemo",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZDgzOThkODU5YWE4NDQ0N2U2ZjhkNGY0NGM2NzAxNjZmMzdlZmU5MmU0ZWFiODI2YmM4MzE2NWIwMWQ0YzIyZjQ5YjU5Y2U2NGQ5NzMxNDUwMTU3N2M3NjVkYzhjYWYxZDkxZjczMjEyMTE1ZDBkNjA0MjYwMmYzMzVkNTc5Njk=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
